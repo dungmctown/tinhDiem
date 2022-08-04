@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tinhDiem/static/css/main.49812743.css",
+    "main.js": "/tinhDiem/static/js/main.99d9ccba.js",
+    "static/js/787.fe00223f.chunk.js": "/tinhDiem/static/js/787.fe00223f.chunk.js",
+    "index.html": "/tinhDiem/index.html",
+    "main.49812743.css.map": "/tinhDiem/static/css/main.49812743.css.map",
+    "main.99d9ccba.js.map": "/tinhDiem/static/js/main.99d9ccba.js.map",
+    "787.fe00223f.chunk.js.map": "/tinhDiem/static/js/787.fe00223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49812743.css",
+    "static/js/main.99d9ccba.js"
+  ]
+}
